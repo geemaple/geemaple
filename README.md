@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Felix
-- 👀 I’m interested in Crytpo, BI/AI, Gaming and music
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me on twitter https://twitter.com/geemaple
+# Felix
+👋 Hello World(你好世界) 🌍
+## Social
+- [Twitter](https://twitter.com/geemaple)
+
+## Stats
+![stats](https://github-readme-stats.vercel.app/api?username=geemaple&&show_icons=true&title_color=ee1b26&icon_color=ee1b26&text_color=ffffff&bg_color=000000)
 
 <!---
 geemaple/geemaple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
